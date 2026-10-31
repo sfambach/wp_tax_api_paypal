@@ -1,0 +1,31 @@
+From: "service@paypal.de" <service@paypal.de>
+To: buyer@example.org
+Subject: Beleg für Ihre Zahlung an AliExpress
+Date: Tue, 20 Oct 2026 09:45:27 -0700
+Message-ID: <p2@example.paypal.de>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Max Mustermann, Sie haben eine Zahlung gesendet.
+Sie haben 49,22 € EUR an AliExpress gezahlt
+Händler
+AliExpress
+Transaktionsdatum
+20.10.2026
+Bestellnummer
+2026102000000000000000000000001
+Paket verfolgen
+Sipeed Tang Nano 20K...
+Menge: 1
+Produkt-ID: 3000000000000001
+40,36 €
+ESP8266 ESP32 Develo...
+Menge: 1
+Produkt-ID: 3000000000000002
+8,86 €
+Zwischensumme
+49,22 €
+Gesamtbetrag
+49,22 € EUR
+Transaktionscode: 74C000000B0000002
